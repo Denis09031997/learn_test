@@ -5,5 +5,3 @@ def is_cheaply(bank):
         return 'Да, этот банк дешевый'
     else:
         return 'У этого банка высокие % ставки'
-
-

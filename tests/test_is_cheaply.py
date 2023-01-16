@@ -2,7 +2,7 @@ from cheaply import is_cheaply
 
 
 def test_is_cheaply():
-    assert is_cheaply('Сбербанк') == 'Да, этот банк дешевый'
+    assert is_cheaply('Сбербанк') == 'Да, этот банк дешевый' # У этого банка высокие % ставки
 
 
 def test_is_cheaply():
